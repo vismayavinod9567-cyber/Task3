@@ -1,0 +1,94 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav-box1{
+    background-color: rgb(27,27,27);
+}
+
+.container-box1{
+    padding: 60px 40px;
+    background-color: rgb(234,243,251);
+    color: rgb(27,42,65);
+}
+
+.container-box1 h1{
+    color: rgb(27,42,65);
+}
+
+.image-placeholder{
+    background-color: rgb(223,227,230);
+    border-radius: 6px;
+    min-height: 300px;
+    color: rgb(108,117,125);
+}
+
+.container-box2{
+    padding: 50px 40px;
+    background-color: rgb(255,255,255);
+    color: rgb(27,42,65);
+}
+
+.feature-card{
+    border: 1px solid rgb(233,236,239);
+    border-radius: 8px;
+    padding: 30px 20px;
+}
+
+.feature-icon{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.6rem;
+    color: rgb(255,255,255);
+    margin-bottom: 16px;
+}
+
+.icon-blue{
+    background-color: rgb(74,125,255);
+}
+
+.icon-green{
+    background-color: rgb(40,167,69);
+}
+
+.icon-purple{
+    background-color: rgb(111,66,193);
+}
+
+.icon-red{
+    background-color: rgb(232,83,79);
+}
+
+.btn-purple{
+    background-color: rgb(111,66,193);
+    color: rgb(255,255,255);
+    border: none;
+}
+
+.btn-purple:hover{
+    background-color: rgb(92,53,156);
+    color: rgb(255,255,255);
+}
+
+.contact input,
+.contact textarea{
+    border: 1px solid rgb(206,212,218);
+}
+
+.badge-active{
+    background-color: rgb(40,167,69);
+}
+
+.badge-pending{
+    background-color: rgb(255,193,7);
+    color: rgb(33,37,41);
+}
+
+.badge-inactive{
+    background-color: rgb(220,53,69);
+}
